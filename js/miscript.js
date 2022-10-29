@@ -14,3 +14,7 @@ function f1(){
 function f1(msg){
     alert(msg);
 }
+
+function f2(){
+    f1("Hola Mundo");
+}
